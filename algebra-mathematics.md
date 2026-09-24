@@ -3,7 +3,6 @@
 **Algebraic structures and equations** provide the foundational framework that allows Artificial Intelligence (AI) algorithms to interpret patterns, calculate errors, and make accurate real-world predictions.
 
 ---
-
 ## Core Algebraic Elements
 
 * **Variables:** Symbols (usually letters like $x, y, w, b$) representing unknown or changing numbers. In AI, these map directly to inputs, outputs, weights, or biases.
@@ -35,4 +34,15 @@ Exponents change relationships from flat, predictable lines into complex multidi
 * **AI Application:** Used universally in **K-Nearest Neighbors (KNN)** algorithms, Euclidean Distance matrices, and facial recognition mapping to find spatial similarities between data nodes.
 
 ---
+
+
+y=wx+b
+
+
+x → input
+w → weight
+b → bias
+y → output
+
+
 
